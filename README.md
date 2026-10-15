@@ -6,6 +6,7 @@ My LeetCode problem solving journey in Java.
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -24,4 +25,16 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
