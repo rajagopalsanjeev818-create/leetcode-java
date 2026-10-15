@@ -11,8 +11,17 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
