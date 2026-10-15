@@ -11,6 +11,7 @@ My LeetCode problem solving journey in Java.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -22,6 +23,7 @@ My LeetCode problem solving journey in Java.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
@@ -43,5 +45,14 @@ My LeetCode problem solving journey in Java.
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
