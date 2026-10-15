@@ -13,6 +13,7 @@ My LeetCode problem solving journey in Java.
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Binary Search
 |  |
@@ -22,6 +23,7 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,4 +40,8 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
