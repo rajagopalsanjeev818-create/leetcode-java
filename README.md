@@ -33,6 +33,7 @@ My LeetCode problem solving journey in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -51,8 +52,13 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
