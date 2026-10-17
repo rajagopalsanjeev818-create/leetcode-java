@@ -14,6 +14,7 @@ My LeetCode problem solving journey in Java.
 | [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -71,5 +72,6 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
