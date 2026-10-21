@@ -37,6 +37,7 @@ My LeetCode problem solving journey in Java.
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
+| [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -73,10 +74,12 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
+| [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
