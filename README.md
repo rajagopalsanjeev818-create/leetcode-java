@@ -19,11 +19,13 @@ My LeetCode problem solving journey in Java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ My LeetCode problem solving journey in Java.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
