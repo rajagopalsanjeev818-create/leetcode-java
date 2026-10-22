@@ -23,6 +23,7 @@ My LeetCode problem solving journey in Java.
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +92,12 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0069-sqrtx) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
