@@ -21,6 +21,7 @@ My LeetCode problem solving journey in Java.
 | [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
+| [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -84,6 +85,7 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
+| [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
