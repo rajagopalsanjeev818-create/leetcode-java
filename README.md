@@ -21,6 +21,7 @@ My LeetCode problem solving journey in Java.
 | [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1572-matrix-diagonal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -113,6 +114,7 @@ My LeetCode problem solving journey in Java.
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
