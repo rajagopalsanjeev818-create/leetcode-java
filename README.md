@@ -19,6 +19,7 @@ My LeetCode problem solving journey in Java.
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
@@ -78,6 +79,7 @@ My LeetCode problem solving journey in Java.
 | [0088-merge-sorted-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -87,6 +89,7 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0392-is-subsequence) |
+| [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 | [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 ## Greedy
@@ -95,6 +98,7 @@ My LeetCode problem solving journey in Java.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
