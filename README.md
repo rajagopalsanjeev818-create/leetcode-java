@@ -24,6 +24,7 @@ My LeetCode problem solving journey in Java.
 | [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -44,6 +45,7 @@ My LeetCode problem solving journey in Java.
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@ My LeetCode problem solving journey in Java.
 | [0860-lemonade-change](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Newton's Method
 |  |
 | ------- |
@@ -107,4 +110,8 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/3898-find-the-degree-of-each-vertex) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
