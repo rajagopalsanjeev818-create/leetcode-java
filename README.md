@@ -120,4 +120,8 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Database
+|  |
+| ------- |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1633-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
