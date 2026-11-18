@@ -93,6 +93,7 @@ My LeetCode problem solving journey in Java.
 | [0942-di-string-match](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/0942-di-string-match) |
 | [1816-truncate-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +125,8 @@ My LeetCode problem solving journey in Java.
 |  |
 | ------- |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/1633-percentage-of-users-attended-a-contest) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rajagopalsanjeev818-create/leetcode-java/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
